@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  discovery:
+    image: openjdk
+  database:
+    image: openjdk
+  management:
+    image: openjdk
+  proxy:
+    image: nginx
