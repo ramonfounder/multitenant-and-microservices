@@ -1,2 +1,2 @@
 # multitenant-and-microservices
-Multi-tenant database and Micro-service architecture
+Multi-tenant database and Microservice architecture
